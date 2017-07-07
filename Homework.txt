@@ -1,0 +1,7 @@
+I used nano .bash_profile to save this code to my profile
+alias crunchy="mkdir crunchy; cd crunchy; touch peanutbutter.txt; echo -e 'Is the best!'; pwd; chmod ug=rw peanutbutter.txt; chmod o= peanutbutter.txt; cd ..''
+
+
+ Short definition : echo -- write arguments to the standard output
+ Long definition : The echo utility writes any specified operands, separated by single blank (` ')
+ characters and followed by a newline (`\n') character, to the standard output.
